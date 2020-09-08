@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "author": "Bill Gates",
+        "title": "Investments",
+        "abtract": "This is a summary of how Bill Gates started investing",
+        "body": "I was a 10 year old when I started investing. And now I am a billionaire",
+        "imageUrl": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMEWXcBke6GA_d0EruKLkignPxMUiV2zcF2Q&usqp=CAU",
+            "createdAt": "2017-04-23" 
+        }
+    },
+    {
+        "_id": 2,
+        "author": "Elon Musk",
+        "title": "Space travel",
+        "abtract": "I want humanity to live on Mars",
+        "body": "Humanity is about to exhaust the natural resources on earth. It is time we went to Mars",
+        "imageUrl": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFlEudaD25h3ZLRuAOmlkFYytoLaBWK4HdSw&usqp=CAU",
+            "createdAt": "2019-12-26" 
+        }
+    },
+    {
+        "_id": 3,
+        "author": "Virat Kohli",
+        "title": "IPL trophies",
+        "abtract": "I want to win a title in IPL",
+        "body": "Its been a lot of years and we haven't won a single trophy. Ee sala cup namde",
+        "imageUrl": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_7dHNaOfVVGwBxCz2tV0SuHCDp3xKtqOP5g&usqp=CAU",
+            "createdAt": "2020-08-20" 
+        }
+    },
+    {
+        "_id": 4,
+        "author": "Lionel Messi",
+        "title": "Sack Bartomeu",
+        "abtract": "It has been a disastrous season for Barcelona",
+        "body": "Management has been poor. Good players have been sent away. And the legacy is perishing",
+        "imageUrl": {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9t3P4QTV5hZtnohq7fcjsBfnUaO5Di_LPtA&usqp=CAU",
+            "createdAt": "2020-09-08" 
+        }
+    }
+    
+]
