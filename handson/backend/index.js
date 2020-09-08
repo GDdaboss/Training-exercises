@@ -1,5 +1,5 @@
 require( './data/init' );
-
+const cors = require('cors');
 const path = require( 'path' );
 const express = require( 'express' );
 const articlesRouter = require( './routes/articles' );
@@ -14,7 +14,7 @@ app.use( '/', ( req, res, next ) => {
 
     console.log( 'Response sent at', (new Date()).toTimeString() );
 });
-
+app.use(cors());
 app.use( express.urlencoded() );
 app.use( express.json() );
 app.use( '/articles', articlesRouter );
